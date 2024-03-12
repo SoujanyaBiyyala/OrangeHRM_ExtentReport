@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-11T20:33:53 IST" name="Suite" finished-at="2024-03-11T20:34:02 IST" duration-ms="8881">
+    <groups>
+    </groups>
+    <test started-at="2024-03-11T20:33:53 IST" name="Test" finished-at="2024-03-11T20:34:02 IST" duration-ms="8881">
+      <class name="com.qa.automation.testCases.OrangeHRMLoginTest">
+        <test-method signature="loginFunctionality()[pri:0, instance:com.qa.automation.testCases.OrangeHRMLoginTest@8f4ea7c]" started-at="2024-03-11T20:33:53 IST" name="loginFunctionality" finished-at="2024-03-11T20:34:02 IST" duration-ms="8746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFunctionality -->
+        <test-method is-config="true" signature="checkResult(org.testng.ITestResult)[pri:0, instance:com.qa.automation.testCases.OrangeHRMLoginTest@8f4ea7c]" started-at="2024-03-11T20:34:02 IST" name="checkResult" finished-at="2024-03-11T20:34:02 IST" duration-ms="10" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginFunctionality status=SUCCESS method=OrangeHRMLoginTest.loginFunctionality()[pri:0, instance:com.qa.automation.testCases.OrangeHRMLoginTest@8f4ea7c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResult -->
+      </class> <!-- com.qa.automation.testCases.OrangeHRMLoginTest -->
+      <class name="com.qa.automation.testCases.TestSetup">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.automation.testCases.TestSetup@222545dc]" started-at="2024-03-11T20:33:43 IST" name="setUp" finished-at="2024-03-11T20:33:53 IST" duration-ms="10034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.automation.testCases.TestSetup@222545dc]" started-at="2024-03-11T20:34:02 IST" name="tearDown" finished-at="2024-03-11T20:34:03 IST" duration-ms="1522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.automation.testCases.TestSetup -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
