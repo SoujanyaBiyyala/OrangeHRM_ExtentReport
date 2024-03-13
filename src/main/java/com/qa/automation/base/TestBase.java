@@ -67,6 +67,6 @@ public class TestBase {
 
 		extent.setSystemInfo("Host Name", "localhost");
 		extent.setSystemInfo("Environment", "QA");
-		extent.setSystemInfo("User", "Ramesh Reddy K");
+		extent.setSystemInfo("User", "Soujanya Biyyala");
 	}
 }
